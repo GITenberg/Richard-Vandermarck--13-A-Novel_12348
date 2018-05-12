@@ -1,5 +1,8 @@
 _repo: Richard-Vandermarck--13-A-Novel_12348
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harris, Miriam Coles
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4329
     wikipedia: http://en.wikipedia.org/wiki/Miriam_Coles_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12348#Richard-Vandermarck--13-A-Novel
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
